@@ -6,8 +6,11 @@ Duomenų suvedimo langas
 -------------------------------------------------------------------------
 
 Paspaudus mygtuką "Toliau", atsidaro vaizdinio grafiko langas bei .txt failas:
+
 Linijinis grafikas:
+
 ![Linijinis grafikas](https://i.imgur.com/kpGL9VU.png "Linijinis grafikas")
 -------------------------------------------------------------------------
 Anuiteto grafikas:
+
 ![Anuiteto grafikas](https://i.imgur.com/TWSyXph.png "Anuiteto grafikas")
