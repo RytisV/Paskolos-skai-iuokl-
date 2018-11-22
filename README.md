@@ -1,4 +1,4 @@
-# Paskolos skaiciuokle
-Ivedama paskolos suma, paskolos terminas ir metines palukanos. Pasirenkama, kokiu grafiku paskola bus grazinama - linijiniu ar anuiteto. Programa nubraizo palukanu, kredito, paskolos likucio grafika bei pateikia detalia kiekvieno menesio ataskaita .txt faile, kuri atidaro automatiskai.
+# Paskolos skaičiuoklė
+Ivedama paskolos suma, paskolos terminas ir metinės palūkanos. Pasirenkama, kokiu grafiku paskola bus grąžinama - linijiniu ar anuiteto. Programa nubraižo palūkanų, kredito, paskolos likučio grafiką bei pateikia detalią kiekvieno mėnesio ataskaitą .txt faile, kurį atidaro automatiškai.
 
 
