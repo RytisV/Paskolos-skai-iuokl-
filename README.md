@@ -9,7 +9,7 @@ Paspaudus mygtuką "Toliau", atsidaro vaizdinio grafiko langas bei .txt failas:
 
 Linijinis grafikas:
 
-![Linijinis grafikas](https://i.imgur.com/kpGL9VU.png "Linijinis grafikas")
+![Linijinis grafikas](https://i.imgur.com/huvHCvN.png "Linijinis grafikas")
 -------------------------------------------------------------------------
 Anuiteto grafikas:
 
